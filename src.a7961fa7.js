@@ -3,4 +3,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./css/styles.css"),console.log("Мастерская: деплой билда от Parcel на GitHub Pages");
 },{"./css/styles.css":"krre"}]},{},["Focm"], null)
-//# sourceMappingURL=/parcel-deploy-tutorial/src.b0095edb.js.map
+//# sourceMappingURL=/parcel-deploy-tutorial/src.a7961fa7.js.map
