@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,uBACF,CAEA,GACE,UAAY,CACZ,iBACF","file":"src.a6cfaae5.css","sourceRoot":"../src","sourcesContent":["body {\n  background-color: tomato;\n}\n\nh1 {\n  color: white;\n  text-align: center;\n}\n"]}
