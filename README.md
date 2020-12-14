@@ -1,4 +1,4 @@
-# parcel-deploy-tutorial
+# team12-icecream-project
 
 ## Мастерская: деплой билда от Parcel на GitHub Pages
 
