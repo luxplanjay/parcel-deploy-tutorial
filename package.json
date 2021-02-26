@@ -1,25 +1,25 @@
 {
-  "name": "parcel-deploy",
+  "name": "team12-icecream-project",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url /parcel-deploy-tutorial/",
+    "build": "parcel build src/index.html --public-url /team12-icecream-project/",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luxplanjay/parcel-deploy-tutorial.git"
+    "url": "https://github.com/novikovanat/team12-icecream-project.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Natalia Novikova <novikovanatalie@protonmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/luxplanjay/parcel-deploy-tutorial/issues"
+    "url": "https://github.com/novikovanat/team12-icecream-project/issues"
   },
-  "homepage": "https://luxplanjay.github.io/parcel-deploy-tutorial",
+  "homepage": "https://novikovanat.github.io/team12-icecream-project",
   "devDependencies": {
     "parcel-bundler": "^1.12.4",
     "parcel-plugin-nuke-dist": "^1.0.1"
